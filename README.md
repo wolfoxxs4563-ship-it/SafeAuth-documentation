@@ -890,7 +890,9 @@ plugins/SafeAuth/
 ```
 
 ---
-
+<p align="center">
+  <img src="https://i.postimg.cc/440F9D4n/Bez-nazvania85-20260226105837.png" width="800"/>
+</p>
 <div align="center">
 
 **SafeAuth v2.0** — Reliable account protection, zero compromise
